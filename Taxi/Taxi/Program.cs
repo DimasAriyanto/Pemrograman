@@ -24,7 +24,7 @@ namespace Taxi_App
 
             if (taxi.OnDuty)
             {
-                Console.Write("Number of Passanger :  ");
+                Console.Write("Number of Passanger:  ");
                 taxi.NumPassanger = Convert.ToInt32(Console.ReadLine());
 
                 Console.WriteLine();
