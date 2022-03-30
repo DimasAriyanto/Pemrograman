@@ -15,25 +15,18 @@ namespace Taxi_App
         public void TaxiInfo()
         {
             Console.WriteLine($"Driver name = {DriverName}");
-            if (OnDuty == true)
-            {
-                Console.WriteLine($"On Duty = yes");
-            }
-            else
-            {
-                Console.WriteLine($"On Duty = no");
-            }
-            Console.WriteLine($"Number Of Pasanger = {NumPassanger}");
         }
 
         public void PickUpPassanger()
         {
             if (OnDuty == true)
             {
-                Console.WriteLine($"{DriverName} sedang menjamput penumpang");
+                Console.WriteLine($"On Duty = Yes");
+                Console.WriteLine($"Number Of Pasanger = {NumPassanger}");
             }
             else
             {
+                Console.WriteLine($"On Duty = No");
                 Console.WriteLine($"{DriverName} tidak sedang menjamput penumpang");
             }
         }
@@ -42,11 +35,7 @@ namespace Taxi_App
         {
             if (NumPassanger != 0)
             {
-                Console.WriteLine($"{DriverName} selesai mengantar penumpang");
-            }
-            else
-            {
-                Console.WriteLine($"{DriverName} belom selesai penumpang");
+                Console.WriteLine($"{DriverName} sedang mengantar penumpang");
             }
         }
 
