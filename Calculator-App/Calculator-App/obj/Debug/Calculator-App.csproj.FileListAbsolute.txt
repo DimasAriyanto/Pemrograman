@@ -1,0 +1,8 @@
+D:\C#\Pemrograman\Calculator-App\Calculator-App\bin\Debug\Calculator-App.exe.config
+D:\C#\Pemrograman\Calculator-App\Calculator-App\bin\Debug\Calculator-App.exe
+D:\C#\Pemrograman\Calculator-App\Calculator-App\bin\Debug\Calculator-App.pdb
+D:\C#\Pemrograman\Calculator-App\Calculator-App\obj\Debug\Calculator-App.csproj.AssemblyReference.cache
+D:\C#\Pemrograman\Calculator-App\Calculator-App\obj\Debug\Calculator-App.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pemrograman\Calculator-App\Calculator-App\obj\Debug\Calculator-App.csproj.CoreCompileInputs.cache
+D:\C#\Pemrograman\Calculator-App\Calculator-App\obj\Debug\Calculator-App.exe
+D:\C#\Pemrograman\Calculator-App\Calculator-App\obj\Debug\Calculator-App.pdb

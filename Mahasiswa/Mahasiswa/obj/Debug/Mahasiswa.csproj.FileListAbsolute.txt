@@ -1,0 +1,8 @@
+D:\C#\Pemrograman\Mahasiswa\Mahasiswa\bin\Debug\Mahasiswa.exe.config
+D:\C#\Pemrograman\Mahasiswa\Mahasiswa\bin\Debug\Mahasiswa.exe
+D:\C#\Pemrograman\Mahasiswa\Mahasiswa\bin\Debug\Mahasiswa.pdb
+D:\C#\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.csproj.AssemblyReference.cache
+D:\C#\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.csproj.CoreCompileInputs.cache
+D:\C#\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.exe
+D:\C#\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.pdb

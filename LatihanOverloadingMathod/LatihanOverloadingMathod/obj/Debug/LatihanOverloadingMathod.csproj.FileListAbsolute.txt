@@ -1,0 +1,8 @@
+D:\C#\Pemrograman\LatihanOverloadingMathod\LatihanOverloadingMathod\bin\Debug\LatihanOverloadingMathod.exe.config
+D:\C#\Pemrograman\LatihanOverloadingMathod\LatihanOverloadingMathod\bin\Debug\LatihanOverloadingMathod.exe
+D:\C#\Pemrograman\LatihanOverloadingMathod\LatihanOverloadingMathod\bin\Debug\LatihanOverloadingMathod.pdb
+D:\C#\Pemrograman\LatihanOverloadingMathod\LatihanOverloadingMathod\obj\Debug\LatihanOverloadingMathod.csproj.AssemblyReference.cache
+D:\C#\Pemrograman\LatihanOverloadingMathod\LatihanOverloadingMathod\obj\Debug\LatihanOverloadingMathod.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pemrograman\LatihanOverloadingMathod\LatihanOverloadingMathod\obj\Debug\LatihanOverloadingMathod.csproj.CoreCompileInputs.cache
+D:\C#\Pemrograman\LatihanOverloadingMathod\LatihanOverloadingMathod\obj\Debug\LatihanOverloadingMathod.exe
+D:\C#\Pemrograman\LatihanOverloadingMathod\LatihanOverloadingMathod\obj\Debug\LatihanOverloadingMathod.pdb
