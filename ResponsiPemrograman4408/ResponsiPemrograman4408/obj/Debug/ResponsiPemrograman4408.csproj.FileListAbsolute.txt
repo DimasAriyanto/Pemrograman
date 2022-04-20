@@ -1,0 +1,8 @@
+D:\C#\Pemrograman\ResponsiPemrograman4408\ResponsiPemrograman4408\obj\Debug\ResponsiPemrograman4408.csproj.AssemblyReference.cache
+D:\C#\Pemrograman\ResponsiPemrograman4408\ResponsiPemrograman4408\obj\Debug\ResponsiPemrograman4408.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pemrograman\ResponsiPemrograman4408\ResponsiPemrograman4408\obj\Debug\ResponsiPemrograman4408.csproj.CoreCompileInputs.cache
+D:\C#\Pemrograman\ResponsiPemrograman4408\ResponsiPemrograman4408\bin\Debug\ResponsiPemrograman4408.exe.config
+D:\C#\Pemrograman\ResponsiPemrograman4408\ResponsiPemrograman4408\bin\Debug\ResponsiPemrograman4408.exe
+D:\C#\Pemrograman\ResponsiPemrograman4408\ResponsiPemrograman4408\bin\Debug\ResponsiPemrograman4408.pdb
+D:\C#\Pemrograman\ResponsiPemrograman4408\ResponsiPemrograman4408\obj\Debug\ResponsiPemrograman4408.exe
+D:\C#\Pemrograman\ResponsiPemrograman4408\ResponsiPemrograman4408\obj\Debug\ResponsiPemrograman4408.pdb
