@@ -1,0 +1,8 @@
+D:\C#\Pemrograman\UTS\UTS\bin\Debug\UTS.exe.config
+D:\C#\Pemrograman\UTS\UTS\bin\Debug\UTS.exe
+D:\C#\Pemrograman\UTS\UTS\bin\Debug\UTS.pdb
+D:\C#\Pemrograman\UTS\UTS\obj\Debug\UTS.csproj.AssemblyReference.cache
+D:\C#\Pemrograman\UTS\UTS\obj\Debug\UTS.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pemrograman\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+D:\C#\Pemrograman\UTS\UTS\obj\Debug\UTS.exe
+D:\C#\Pemrograman\UTS\UTS\obj\Debug\UTS.pdb
