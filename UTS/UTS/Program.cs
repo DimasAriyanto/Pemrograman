@@ -10,7 +10,7 @@ namespace UTS
     {
         static void Main(string[] args)
         {
-            Dosen dosen1 = new Dosen(1, "Dimas Ariyanto", 21114408, "Laki-laki", "Pemrograman");
+            Dosen dosen1 = new Dosen(1, "Ahmad Fachry Algufron", 21114401, "Laki-laki", "Sistem Operasi");
 
             dosen1.cetakHasil();
             Console.WriteLine();

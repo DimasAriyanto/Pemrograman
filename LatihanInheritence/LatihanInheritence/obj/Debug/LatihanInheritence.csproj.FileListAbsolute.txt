@@ -1,0 +1,8 @@
+D:\C#\Pemrograman\LatihanInheritence\LatihanInheritence\bin\Debug\LatihanInheritence.exe.config
+D:\C#\Pemrograman\LatihanInheritence\LatihanInheritence\bin\Debug\LatihanInheritence.exe
+D:\C#\Pemrograman\LatihanInheritence\LatihanInheritence\bin\Debug\LatihanInheritence.pdb
+D:\C#\Pemrograman\LatihanInheritence\LatihanInheritence\obj\Debug\LatihanInheritence.csproj.AssemblyReference.cache
+D:\C#\Pemrograman\LatihanInheritence\LatihanInheritence\obj\Debug\LatihanInheritence.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pemrograman\LatihanInheritence\LatihanInheritence\obj\Debug\LatihanInheritence.csproj.CoreCompileInputs.cache
+D:\C#\Pemrograman\LatihanInheritence\LatihanInheritence\obj\Debug\LatihanInheritence.exe
+D:\C#\Pemrograman\LatihanInheritence\LatihanInheritence\obj\Debug\LatihanInheritence.pdb
