@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{A2612CB2-004C-4A4F-B8FB-FFA1F786F1A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanPolymorphism", "LatihanPolymorphism\LatihanPolymorphism.csproj", "{6CF4D734-418F-4CA1-BBA0-42C80A645868}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A2612CB2-004C-4A4F-B8FB-FFA1F786F1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2612CB2-004C-4A4F-B8FB-FFA1F786F1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2612CB2-004C-4A4F-B8FB-FFA1F786F1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2612CB2-004C-4A4F-B8FB-FFA1F786F1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF4D734-418F-4CA1-BBA0-42C80A645868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF4D734-418F-4CA1-BBA0-42C80A645868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF4D734-418F-4CA1-BBA0-42C80A645868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF4D734-418F-4CA1-BBA0-42C80A645868}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F83D6845-A034-444A-922B-14653422C726}
+		SolutionGuid = {A5D1D9BF-0C29-49E7-B519-F8A38C4ACCEC}
 	EndGlobalSection
 EndGlobal

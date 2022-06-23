@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritance
+namespace LatihanPolymorphism
 {
-    internal class Program
+    internal class Cat : Animal
     {
-        static void Main(string[] args)
+        public override void Speak()
         {
+            Console.WriteLine("Cat says : Meong-Meong");
         }
     }
 }

@@ -1,0 +1,8 @@
+D:\C#\Pemrograman\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\LatihanPolymorphism.exe.config
+D:\C#\Pemrograman\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\LatihanPolymorphism.exe
+D:\C#\Pemrograman\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\LatihanPolymorphism.pdb
+D:\C#\Pemrograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.csproj.AssemblyReference.cache
+D:\C#\Pemrograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pemrograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.csproj.CoreCompileInputs.cache
+D:\C#\Pemrograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.exe
+D:\C#\Pemrograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.pdb
