@@ -1,0 +1,11 @@
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\bin\Debug\LatihanInterface.exe.config
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\bin\Debug\LatihanInterface.exe
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\bin\Debug\LatihanInterface.pdb
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\obj\Debug\LatihanInterface.csproj.AssemblyReference.cache
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\obj\Debug\LatihanInterface.csproj.SuggestedBindingRedirects.cache
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\obj\Debug\LatihanInterface.csproj.CoreCompileInputs.cache
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\obj\Debug\LatihanInterface.csproj.CopyComplete
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\obj\Debug\LatihanInterface.exe
+D:\C#\Pemrograman\LatihanInterface\LatihanInterface\obj\Debug\LatihanInterface.pdb
