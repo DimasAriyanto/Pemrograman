@@ -1,0 +1,11 @@
+D:\pemograman\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+D:\pemograman\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+D:\pemograman\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+D:\pemograman\Abstraction\Abstraction\bin\Debug\Newtonsoft.Json.dll
+D:\pemograman\Abstraction\Abstraction\bin\Debug\Newtonsoft.Json.xml
+D:\pemograman\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+D:\pemograman\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.SuggestedBindingRedirects.cache
+D:\pemograman\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+D:\pemograman\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CopyComplete
+D:\pemograman\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+D:\pemograman\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
