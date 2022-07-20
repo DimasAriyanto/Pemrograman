@@ -10,26 +10,19 @@ namespace LatihanInheritence
     {
         static void Main(string[] args)
         {
+            // deklarasi object person dari class person dengan parameter dari constractor
             Person person = new Person("Mike", 20);
-            // codingan latihan
-            // person.Name = "Mike";
-            // person.Age = 20;
+            // deklarasi void untuk menampilkan constrctor
             person.GetNameAndAge();
 
+            // deklarasi object person dari class teacher dengan parameter dari constractor
             Teacher teacher = new Teacher("Thomas", 35, "190302", "Math");
-            // codingan latihan
-            // teacher.Name = "Thomas";
-            // teacher.Age = 35;
-            // teacher.TeacherId = "190302";
-            // teacher.Subject = "Math";
+            // deklarasi void untuk menampilkan constrctor
             teacher.GetNameAndAge();
 
+            // deklarasi object person dari class teacher dengan parameter dari constractor
             Student student = new Student("Sara", 19, "10506", "sara123@amikom.ac.id");
-            // codingan latihan
-            // student.Name = "Sara";
-            // student.Age = 19;
-            // student.StudentId = "10506";
-            // student.Email = "sara123@amikom.ac.id";
+            // deklarasi void untuk menampilkan constrctor
             student.GetNameAndAge();
 
             Console.ReadKey();
